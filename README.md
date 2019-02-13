@@ -15,5 +15,5 @@ https://github.com/znxlwm/pytorch-MNIST-CelebA-cGAN-cDCGAN
  ![Alt text](CGAN_fake_images/samples.gif)
  
 # loss function
- ![Alt text](CGAN_fake_images/Loss.png)
+ ![Alt text](CGAN_fake_images/Loss.jpg)
  
